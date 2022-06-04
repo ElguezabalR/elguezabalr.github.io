@@ -1,3 +1,5 @@
+<br><br>
+
 # Sobre mi
 
 Mi nombre es Rodolfo Elguezábal. Soy estudiante del ultimo año de Licenciatura en Economía con intereses en el análisis y la ciencia de datos.
@@ -7,7 +9,7 @@ Disfruto trabajar en ambientes con buen clima que propongan objetivos desafiante
 ---
 # Proyectos
 
-# Data Science 
+## Data Science 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
