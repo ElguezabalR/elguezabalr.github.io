@@ -1,8 +1,13 @@
-## Portfolio
+# Sobre mi
+
+Mi nombre es Rodolfo Elguezábal. Soy estudiante del ultimo año de Licenciatura en Economía con intereses en el análisis y la ciencia de datos.
+Soy una persona curiosa y perseverante con ganas de adquirir experiencias que me permitan seguir creciendo y aprendiendo en estas áreas .
+Disfruto trabajar en ambientes con buen clima que propongan objetivos desafiantes.
 
 ---
+# Proyectos
 
-### Category Name 1 
+# Data Science 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +22,7 @@
 
 ---
 
-### Category Name 2
+### Data Analytics
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
