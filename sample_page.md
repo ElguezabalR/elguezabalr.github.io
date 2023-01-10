@@ -5,7 +5,7 @@
 Variables bajo estudio: Cantidad de pasajeros por estaciones de subte entre 2019 y 2022.
 
 
-### 1. Etaás del proyecto:
+### 1. Etapas del proyecto:
 
 1. Obtención de datos: 
 Fuente de datos: BA Data 
