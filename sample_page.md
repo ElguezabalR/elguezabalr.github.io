@@ -1,17 +1,33 @@
-## Dinamicas del subte y COVID19
+## Dinámicas del subte y COVID19
 
-**Project description:** Realizar un analisis exploratorio para ver los cambios de uso en el subte entre 2018 y 2022.
+**Objetivo:** Realizar un análisis exploratorio para ver los cambios de uso en el subte entre 2018 y 2022.
+
+Variables bajo estudio: Cantidad de pasajeros por estaciones de subte entre 2019 y 2022.
 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Etaás del proyecto:
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+1. Obtención de datos: 
+Fuente de datos: BA Data 
+Datasets con cantidad de pasajeros por molinete y por estación de la red de subte (2018-2022).
+Los registros por molinete se generan cada 15 min.
+El total de registros de la BBDD es de 28,559,662 registros.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+2. Procesamiento de datos:
+Limpieza y homogeneización de datasets.
+Unión de datasets
+Problemas:
+  Faltante de estaciones.
+  Falta de datos en 2021 (enero y febrero) 
+  En 2022, solo contamos con mayo. 
+
+3. Visualizaciones de datos:
+Se buscó explorar los datos mediante visualizaciones.
+Para esto agrupamos los datos por año, mes, días y horas.
+Dimensiones analizadas:
+  Cantidad de pasajeros 
+  Estaciones
+  Años, meses, días y horas.
 
 ### 2. Assess assumptions on which statistical inference will be based
 
