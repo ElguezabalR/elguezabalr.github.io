@@ -8,7 +8,7 @@ Disfruto trabajar en ambientes con buen clima que propongan objetivos desafiante
 
 ---
 # Proyectos
-
+<!--
 ## Data Science 
 
 [Project 1 Title](/sample_page)
@@ -25,7 +25,7 @@ Disfruto trabajar en ambientes con buen clima que propongan objetivos desafiante
 ---
 
 ### Data Analytics
-
+-->
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
