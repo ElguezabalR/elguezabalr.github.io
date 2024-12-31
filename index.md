@@ -20,7 +20,8 @@ Disfruto trabajar en ambientes con buen clima que propongan objetivos desafiante
 ### Data Analytics
 -->
 
-- [Informe sobre Tercera Edad en la Ciudad Autónoma de Buenos Aires](/pdf/Informe Tercera Edad Dic24.pdf)
+- [Informe sobre Tercera Edad en la Ciudad Autónoma de Buenos Aires](/pdf/Informe%20Tercera%20Edad%20Dic24.pdf)
+
 
 
 ---
