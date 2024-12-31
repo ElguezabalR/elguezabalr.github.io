@@ -8,6 +8,7 @@ Disfruto trabajar en ambientes con buen clima que propongan objetivos desafiante
 
 ---
 # Proyectos
+
 <!--
 ## Data Science 
 
@@ -15,22 +16,12 @@ Disfruto trabajar en ambientes con buen clima que propongan objetivos desafiante
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Data Analytics
 -->
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+- [Informe sobre Tercera Edad en la Ciudad Autónoma de Buenos Aires](/pdf/Informe Tercera Edad Dic24.pdf)
+
 
 ---
 
