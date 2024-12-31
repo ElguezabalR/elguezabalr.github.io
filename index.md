@@ -21,7 +21,7 @@ Disfruto trabajar en ambientes con buen clima que propongan objetivos desafiante
 -->
 
 - [Informe sobre Tercera Edad en la Ciudad Autónoma de Buenos Aires](/pdf/Informe%20Tercera%20Edad%20Dic24.pdf)
-- [Dinámicas del subte y COVID19](/informe_subte.md)
+- [Dinámicas del subte y COVID19](informe_ subte.md)
 
 
 
