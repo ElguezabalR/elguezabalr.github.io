@@ -2,9 +2,9 @@
 
 # Sobre mi
 
-Mi nombre es Rodolfo Elguezábal. Soy estudiante del ultimo año de Licenciatura en Economía con intereses en el análisis y la ciencia de datos.
-Soy una persona curiosa y perseverante con ganas de adquirir experiencias que me permitan seguir creciendo y aprendiendo en estas áreas .
-Disfruto trabajar en ambientes con buen clima que propongan objetivos desafiantes.
+Mi nombre es Rodolfo Elguezábal y soy Licenciado en Economía por la Universidad de Buenos Aires. Me especializo en análisis y ciencia de datos, combinando el pensamiento analítico de la economía con herramientas modernas para transformar datos en decisiones informadas.
+
+En este portfolio encontrarás proyectos que desarrollé aplicando técnicas de análisis estadístico, visualización de datos y machine learning. Mi objetivo es mostrar cómo los datos pueden contar historias, resolver problemas complejos y aportar valor en distintos contextos. Apunto a que sea un lugar donde el conocimiento se comparta y se enriquezca de forma colaborativa.
 
 ---
 # Proyectos
