@@ -22,7 +22,7 @@ En este portfolio encontrarás proyectos que desarrollé aplicando técnicas de 
 
 - [Informe sobre Tercera Edad en la Ciudad Autónoma de Buenos Aires](/pdf/Informe%20Tercera%20Edad%20Dic24.pdf)
 
-- [Dinámicas del subte y COVID19](/pdf/Presentacion subte.pptx.pdf)
+- [Dinámicas del subte y COVID19](/pdf/Presentacion%20subte.pptx.pdf)
 
 
 
